@@ -1,28 +1,11 @@
+/* let age = 10
 
-console.log('Hola Koders')
+age = age + 1  esto es lo mismo que el de abajo, el de abajo es la abreviatura
+age += 1
 
-//variables
+console.log(age)
 
-//let, var, const
-var nombre variable;
-let, combreVariable2
-
-let nombreVariable = 'Algo'
-let numero = 1000
-let booleano = true
-let myArray = [1,'1', true]
-let myObjectKoder = {
-    nombre: 'manuel',
-}
-
-let nombre = 'oscar'
-nombre = "Oscar"
-
-//let si va a cambiar mi valor
-//const si es un valor fijo
-
-const NAME_KODER = "oscar"
-let name_koder2 = 'oscar'
- 
+typeof te dice el tipo de dato si string o numerico
+  */
 
 
