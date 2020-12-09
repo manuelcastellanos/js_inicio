@@ -21,22 +21,3 @@ if (WEATHER === 'soleado' ) {
     const WEATHER_DESCRIPTION = prompt('Describe como esta el clima entonces vato')
     console.log(`el dia esta ${WEATHER_DESCRIPTION}`)
 }
-
-
-
-
-
-
-
-
-// let weather = prompt ('Como esta el clima en tu rancho')
-// var lluvioso
-// var soleado
-
-// if (weather = lluvioso) {
-//     console.log (`El dia se encuentra soleado y puedes lavar tu ropa`)
-// } else {(weather = soleado)
-//     console.log (`Esta lloviendo, mete la ropa cab...`)
-// }
-
-
